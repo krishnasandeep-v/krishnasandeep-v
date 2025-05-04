@@ -29,7 +29,7 @@
 | **🔬 DRDO Automation** | Reduced antenna measurement error by 30% and accelerated data acquisition by 40% using LabVIEW & Python |
 | **📊 Telco Churn Dashboard** | Power BI & SQL-based churn analysis dashboard with strategic churn reduction insights |
 | **📈 Bain Strategy Case** | Delivered a $12M handset leasing opportunity using segmentation & pricing strategies |
-| **🤖 RetailGPT** | Built an AI job assistant for students – matches roles, crafts resumes, preps interviews |
+| **🤖 RetailGPT** | Developed a generative AI assistant for the retail domain using LLMs to enhance customer experience. Integrated NLP techniques to handle queries, personalize recommendations, and simulate natural conversations for sales support.|
 | **🔐 IoT Block Cipher (Patent)** | Developed secure SPN encryption for low-power IoT; published & patented |
 | **🧠 Voice Authenticator** | Real-time secure voice verification using MFCC & MLP neural networks |
 | **📷 Capstone: Hybrid Image Encryption** | Quantum Key Distribution + CNN + chaotic mapping for post-quantum secure image encryption |
