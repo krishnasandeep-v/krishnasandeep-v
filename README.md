@@ -4,15 +4,21 @@
 💡 Passionate about consulting, data analytics, cybersecurity, and digital transformation  
 🚀 I thrive on solving real-world problems—from reducing testing inefficiencies at DRDO to enhancing customer strategies in telecom
 
-> _"{{QUOTE}}"_
+> _“Data is the new oil, but insight is the combustion.”_
 
 ---
 
 ### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,aws,azure,pytorch,tensorflow,labview,arduino,html,css,js,git,github,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql,html,css,js,git,github,aws,azure,pytorch,tensorflow,labview,arduino,figma" alt="Tech Stack Icons" />
 </p>
+
+- 🧠 **Analytics & BI**: Power BI, Excel, Tableau  
+- 🛠️ **Data Handling**: SQL, Pandas, NumPy  
+- 🧮 **ML/DL**: Scikit-Learn, TensorFlow, PyTorch  
+- 🔐 **Security & Systems**: Cryptography, SPN, IoT, QKD  
+- 🧰 **Other Tools**: LabVIEW, Arduino, GitHub, Figma
 
 ---
 
