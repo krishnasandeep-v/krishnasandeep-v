@@ -43,7 +43,7 @@
 - 📄 *“IoT Enabled Multi-Factor Authentication Lock System”* – 5th ICEEECT 2024 (Malaysia)  
 - 🔏 Patent: *SPN Cipher System with Masked S-box using Finite Fields* (Filed, India)
 
-🔗 [Google Scholar](https://scholar.google.com/) *(Replace with actual profile link if available)*
+
 
 ---
 
