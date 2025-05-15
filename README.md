@@ -1,56 +1,66 @@
 ## 👋 Hi, I'm Sandeep Krishna V!
 
-🎓 Electronics & Communication Engineering graduate from VIT Chennai (CGPA: 9.47)  
-💡 Passionate about consulting, data analytics, cybersecurity, and digital transformation  
-🚀 I thrive on solving real-world problems—from reducing testing inefficiencies at DRDO to enhancing customer strategies in telecom
+🎓 Final-year ECE undergrad from VIT Chennai (CGPA: 9.47)  
+🧠 Passionate about applied research in AI, NLP, cloud systems & cybersecurity  
+🧪 Built intelligent systems ranging from speech verification to post-quantum encryption  
+💡 Driven by curiosity and committed to solving real-world problems through innovation
 
-> _“Data is the new oil, but insight is the combustion.”_
+> _"AI that understands, adapts, and secures—that’s where the future is."_
 
 ---
 
-### 💼 Tech Stack
+### 💻 Research & Engineering Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sql,html,css,js,git,github,aws,azure,pytorch,tensorflow,labview,arduino,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,sql,azure,aws,git,github,tensorflow,pytorch,html,css,js,labview,arduino" alt="Tech Stack Icons" />
 </p>
 
-- 🧠 **Analytics & BI**: Power BI, Excel, Tableau  
-- 🛠️ **Data Handling**: SQL, Pandas, NumPy  
-- 🧮 **ML/DL**: Scikit-Learn, TensorFlow, PyTorch  
-- 🔐 **Security & Systems**: Cryptography, SPN, IoT, QKD  
-- 🧰 **Other Tools**: LabVIEW, Arduino, GitHub, Figma
+- 🧠 **AI & Deep Learning**: Transformers, CNNs, RNNs, Scikit-Learn, TensorFlow, PyTorch  
+- 🗣️ **NLP**: Wav2Vec2, MFCC, Hugging Face, Rasa, Speech2Text, text embeddings  
+- ☁️ **Cloud & Systems**: Azure (Foundations), AWS (Foundations), Agentic Design Patterns  
+- 🔐 **Security & Cryptography**: QKD, SPN, chaotic maps, post-quantum encryption  
+- 📊 **Data Analytics & BI**: SQL, Power BI, Pandas, NumPy  
+- 🛠️ **Tools**: LabVIEW, Git, Arduino, Figma, Google Colab
 
 ---
 
-### 🛠️ Featured Projects & Case Studies
+### 🔍 Featured Research & Projects
 
 | Project | Description |
 |--------|-------------|
-| **🔬 DRDO Automation** | Reduced antenna measurement error by 30% and accelerated data acquisition by 40% using LabVIEW & Python |
-| **📊 Telco Churn Dashboard** | Power BI & SQL-based churn analysis dashboard with strategic churn reduction insights |
-| **📈 Bain Strategy Case** | Delivered a $12M handset leasing opportunity using segmentation & pricing strategies |
-| **🤖 RetailGPT** | Developed a generative AI assistant for the retail domain using LLMs to enhance customer experience. Integrated NLP techniques to handle queries, personalize recommendations, and simulate natural conversations for sales support.|
-| **🔐 IoT Block Cipher (Patent)** | Developed secure SPN encryption for low-power IoT; published & patented |
-| **🧠 Voice Authenticator** | Real-time secure voice verification using MFCC & MLP neural networks |
-| **📷 Capstone: Hybrid Image Encryption** | Quantum Key Distribution + CNN + chaotic mapping for post-quantum secure image encryption |
+| **🗣️ Vocal Authenticator (DL)** | Built a real-time voice authentication system using MFCCs + MLP; improved access control accuracy |
+| **🧠 Continuous Speech Recognition** | Fine-tuned transformer models (Wav2Vec2) for Indian accents; evaluated using WER; real-time transcription |
+| **🔐 Capstone: Quantum-Safe Image Encryption** | CNN + QKD + Henon/Arnold chaotic maps for unbreakable image security |
+| **📊 DRDO Lab Automation** | Reduced antenna test error by 30% & improved throughput using LabVIEW & Python automation |
+| **🧠 RetailGPT** | NLP-powered LLM assistant for retail CX—query understanding, recommendation, and generative responses |
+| **📈 Telco Churn Analytics** | SQL + Power BI-based dashboard to uncover drivers of churn & recommend retention strategies |
+| **🧬 IoT Block Cipher (Patent)** | Designed & patented lightweight SPN encryption scheme for low-power embedded systems |
 
 ---
 
-### 📃 Certifications
+### 📃 Publications & Patent
 
+- 📄 *“IoT Enabled Multi-Factor Authentication Lock System”* – 5th ICEEECT 2024 (Malaysia)  
+- 🔏 Patent: *SPN Cipher System with Masked S-box using Finite Fields* (Filed, India)
+
+🔗 [Google Scholar](https://scholar.google.com/) *(Replace with actual profile link if available)*
+
+---
+
+### 🎓 Certifications
+
+- **NPTEL** – Machine Learning, Computer Vision, DBMS  
 - **Google** – Crash Course on Python  
-- **AWS** – Cloud Foundations (2024)  
-- **CISCO** – Data Science & Analytics Essentials  
-- **NPTEL** – DBMS, Machine Learning, Computer Vision  
-- **Deloitte Forage** – Data Analytics Simulation  
-- **BCG Forage** – Consulting Strategy Simulation  
+- **AWS & Azure** – Cloud Foundations  
+- **CISCO** – Data Science Essentials  
+- **BCG & Deloitte** – Consulting Simulations (Forage)
 
 ---
 
 ### 🧠 Thought Leadership
 
-📚 I share insights, tutorials & analytics case studies on my blog:  
-**🔗 [Data Insights Hub](https://data-insights-hub.blogspot.com/)**
+📚 I write about AI, research workflows, and real-world data applications on my blog:  
+🔗 [Data Insights Hub](https://data-insights-hub.blogspot.com/)
 
 ---
 
@@ -58,15 +68,16 @@
 
 - 📧 Email: [vsandeepkrishna@gmail.com](mailto:vsandeepkrishna@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sandeep-krishna-v-56787121b](https://www.linkedin.com/in/sandeep-krishna-v-56787121b)  
-- 📂 Portfolio & Certifications: [View on Drive](https://drive.google.com/file/d/1MFndVxmhe5pj-mKbSO7ugkB2044MkpNd/view?usp=drivesdk)  
+- 📂 Portfolio: [View Resume & Certificates](https://drive.google.com/file/d/1MFndVxmhe5pj-mKbSO7ugkB2044MkpNd/view?usp=drivesdk)  
+- 💻 GitHub: [github.com/krishnasandeep-v](https://github.com/krishnasandeep-v)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnasandeep-v&show_icons=true&theme=radical" alt="Sandeep's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasandeep-v&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnasandeep-v&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasandeep-v&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -74,5 +85,5 @@
 ### 🔁 Daily Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
